@@ -18,6 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<p align="center">Im a beginner so dont expect too much aight</p>
+<p align="center">But hey, i have some good song for u to hear</p>
+
 ###
 
 <div align="center">
